@@ -1,9 +1,12 @@
-#include <unistd.h>
+/*
+** EPITECH PROJECT, 2024
+** my_print_alpha
+** File description:
+** print alphabet
+*/
 
-void my_putchar(char c)
-{
-    write(1, &c, 1);
-}
+#include <stdio.h>
+void my_putchar(char c);
 
 int my_print_alpha(void)
 {
