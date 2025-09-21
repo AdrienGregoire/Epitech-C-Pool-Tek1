@@ -1,5 +1,7 @@
 # Piscine C - Epitech Tek1
 
+## Description
+
 Voici mon repo contenant l'ensemble des projets que j'ai réalisé durant **la Piscine C de première année à Epitech**.
 La Piscine a été la période la plus intensive et la plus mémorable de ma scolarité.
 Je n'ai pas réalisé l'entiéreté de la piscine durant ma scolarité mais le but de ce repo est d'ajouter l'entiéreté de la piscine puisque j'ai enfin les compétences pour la réaliser dans son intégralité.
@@ -41,5 +43,6 @@ Certains projets ont un Makefile dédié ou des instructions spécifiques (indiq
 
 ## Licence
 Aucune.
+
 
 
