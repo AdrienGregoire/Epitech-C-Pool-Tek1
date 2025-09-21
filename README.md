@@ -26,7 +26,7 @@ Ce repo regroupe les exercices et projets réalisés pendant la piscine:
 - Résolution de problème sous pression
 - **Autonomie  et rigueur** dans le développement
 
-## Structure du repo
+## 📁 Structure du projet
 |----cpooldayXX/  # Exercices journaliers classés par day    
 |----rushXX/ # Projets en duo réalisés le week-end     
 |----projects/ # Les grands projets comme mini-printf et printf     
@@ -43,6 +43,7 @@ Certains projets ont un Makefile dédié ou des instructions spécifiques (indiq
 
 ## Licence
 Aucune.
+
 
 
 
