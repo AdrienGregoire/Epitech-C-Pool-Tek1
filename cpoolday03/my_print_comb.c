@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2024
 ** my_print_comb
 ** File description:
-**  the numbers composed by three different digits numbers
+** the numbers composed by three different digits numbers
 */
 
 #include <stdio.h>
@@ -13,7 +13,6 @@ int my_print_comb(void)
     int a = 0;
     int b = 1;
     int c = 2;
-    int iteration = 0;
 
     for (; c < 9 || a < 7 || b < 8; c++) {
         if (c > 9) {
@@ -30,4 +29,5 @@ int my_print_comb(void)
     my_putchar(c + '0');
     my_putchar(' ');
     }
+    return 0;
 }
