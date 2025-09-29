@@ -38,6 +38,7 @@ Ce repo regroupe les exercices et projets réalisés pendant la piscine:
 ```
 
 ## Lancer les projets
+
 Pour les days de piscine, il faut malheureusement créer un main puisque chaque task correspondait à la création d'une fonction indépendante d'un main pour pouvoir la réutiliser via une lib.    
 Sinon, il est possible de compiler les projets via make.   
 ```bash
@@ -47,4 +48,6 @@ make
 Certains projets ont un Makefile dédié ou des instructions spécifiques (indiquées dans leur dossier respectif).
 
 ## Licence
+
 Aucune.
+
