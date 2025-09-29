@@ -27,10 +27,15 @@ Ce repo regroupe les exercices et projets réalisés pendant la piscine:
 - **Autonomie  et rigueur** dans le développement
 
 ## 📁 Structure du projet
-|----cpooldayXX/   # Exercices journaliers classés par day    
-|----rushXX/       # Projets en duo réalisés le week-end     
-|----projects/     # Les grands projets comme mini-printf et printf     
-|____README.md     # Ce fichier     
+```
+|── cpooldayXX/  # Exercices journaliers classés par day
+    └── soon
+|── rushXX/      # Projets en duo réalisés le week-end
+    └── soon
+|── projects/    # Les grands projets comme mini-printf et printf
+    └── soon
+├── README.md    # Ce fichier
+```
 
 ## Lancer les projets
 Pour les days de piscine, il faut malheureusement créer un main puisque chaque task correspondait à la création d'une fonction indépendante d'un main pour pouvoir la réutiliser via une lib.    
@@ -43,6 +48,7 @@ Certains projets ont un Makefile dédié ou des instructions spécifiques (indiq
 
 ## Licence
 Aucune.
+
 
 
 
