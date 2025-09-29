@@ -48,9 +48,3 @@ Certains projets ont un Makefile dédié ou des instructions spécifiques (indiq
 
 ## Licence
 Aucune.
-
-
-
-
-
-
