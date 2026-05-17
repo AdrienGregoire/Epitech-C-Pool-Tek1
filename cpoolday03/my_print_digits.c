@@ -12,8 +12,7 @@ int my_print_digits(void)
 {
     char number = '0';
 
-    for (; number <= '9'; number++) {
+    for (; number <= '9'; number++)
         my_putchar(number);
-    }
     return 0;
 }

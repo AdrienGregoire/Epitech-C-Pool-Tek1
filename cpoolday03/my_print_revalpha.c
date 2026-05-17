@@ -12,8 +12,7 @@ int my_print_revalpha(void)
 {
     char letter = 'z';
 
-    for (; letter >= 'a'; letter--) {
+    for (; letter >= 'a'; letter--)
         my_putchar(letter);
-    }
     return 0;
 }

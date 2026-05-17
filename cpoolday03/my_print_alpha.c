@@ -12,8 +12,7 @@ int my_print_alpha(void)
 {
     char letter = 'a';
 
-    for (; letter <= 'z'; letter++) {
+    for (; letter <= 'z'; letter++)
         my_putchar(letter);
-    }
     return 0;
 }
